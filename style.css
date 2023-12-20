@@ -1,0 +1,113 @@
+.main {
+  background-color: rgba(195, 255, 127, 0.233);
+  margin-left: 100px;
+  margin-right: 300px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 800px;
+}
+
+header .nav {
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 100px;
+  height: 20px;
+  align-items: center;
+}
+
+ .logo {
+  width: 150px;
+  height: 30px;
+}
+
+.span {
+  display: flex;
+  margin-left: 200px;
+}
+
+.rounded {
+  border: 2px solid #1d2c3c;
+  border-radius: 4px;
+}
+
+.split {
+  height: 400px;
+  width: 50%;
+  position: fixed;
+}
+
+.left {
+  left: 0;
+  background-color: white;
+  margin-left: 150px;
+  width: 497px;
+  height: 490px;
+}
+
+.right {
+  right: 0;
+  background-color: rgb(0, 60, 255);
+  margin-right: 500px;
+  width: 218px;
+  height: 450px;
+  border-bottom: 20px;
+}
+
+h3 {
+  margin-left: 20px;
+}
+
+.form-field {
+  display: flex;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+
+.form-group {
+  width: 40%;
+}
+
+.card {
+  margin-top: 20px;
+   margin-left: 20px;
+}
+
+.buy {
+  align-items: center;
+  margin-top: 30px;
+   margin-right: 20px;
+   background-color: rgb(0, 128, 0);
+}
+
+.circle {
+  margin-left: 20px;
+}
+
+.background {
+  background-color: rgb(43, 190, 158);
+}
+
+.center {
+  border: 100px;
+  text-align: center;
+  padding: 8px;
+  color: white;
+  cursor: pointer;
+} 
+
+.contact {
+  text-decoration: underline;
+}
+
+.center2 {
+  text-align: center;
+}
+
+p {
+  color: white;
+}
+
